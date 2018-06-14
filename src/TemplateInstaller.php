@@ -16,6 +16,6 @@ class FrameworkInstaller extends LibraryInstaller
 
     public function supports($packageType)
     {
-        return 'framework-template' === $packageType;
+        return 'framework-installer' === $packageType;
     }
 }
