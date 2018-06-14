@@ -14,5 +14,5 @@
 	"require": {
 		"composer-plugin-api": "^1.0"
 	},
-	"minimum-stability": "dev"
+	"minimum-stability": "stable"
 }

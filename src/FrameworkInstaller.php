@@ -11,7 +11,7 @@ class FrameworkInstaller extends LibraryInstaller
 {
     public function getInstallPath(PackageInterface $package)
     {
-        return 'application/';
+        return 'admin/';
     }
 
     public function supports($packageType)
