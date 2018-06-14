@@ -9,7 +9,7 @@
 		}
 	},
 	"extra": {
-		"class": "zhu2688\\Composer\\TemplateInstallerPlugin"
+		"class": "zhu2688\\Composer\\FrameworkInstallerPlugin"
 	},
 	"require": {
 		"composer-plugin-api": "^1.0"
