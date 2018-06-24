@@ -4,6 +4,7 @@
  */
 namespace zhu2688\Composer;
 
+use Composer\Composer;
 use Composer\Package\PackageInterface;
 use Composer\Installer\LibraryInstaller;
 use Composer\IO\IOInterface;
